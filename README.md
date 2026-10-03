@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FFC0CB&center=true&vCenter=true&width=500&lines=Testing+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FFC0CB&center=true&vCenter=true&width=500&lines="You+define+your+own life+Don't+let+other+people+write+your+script"
+-Oprah Winfrey)](https://git.io/typing-svg)
 
 <img width="500" height="281" alt="Image" src="https://github.com/user-attachments/assets/4b8c1bdc-9773-4e9c-8d18-9a1bce378dc3" />
 
