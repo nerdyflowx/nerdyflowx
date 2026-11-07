@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=nerdyflowx&color=FFF2A6)
+![ᥫ᭡](https://komarev.com/ghpvc/?username=nerdyflowx&label=%E1%A5%AB%E1%AD%A1&color=FFF2A6&style=flat)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=live+your+life+to+the+fullest+time+we+have&color=FFF4B8)](https://git.io/typing-svg)
