@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=nerdyflowx&color=blue)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=live+your+life+to+the+fullest+time+we+have&color=FFF4B8)](https://git.io/typing-svg)
 
 <img width="500" height="281" alt="Image" src="https://github.com/user-attachments/assets/4b8c1bdc-9773-4e9c-8d18-9a1bce378dc3" />
