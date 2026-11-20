@@ -22,7 +22,8 @@
 <details>
 <summary>ღ</summary>
 @pt-hall-of-halls
-![image](https://github.com/user-attachments/assets/316cb8b5-feb4-47bf-b0ba-68e0deb7f09d)
+
+ ![image](https://github.com/user-attachments/assets/316cb8b5-feb4-47bf-b0ba-68e0deb7f09d)
 
 </details>
 
